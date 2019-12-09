@@ -1,0 +1,94 @@
+{
+	"albums": [
+	  {
+			"number": "1.",
+			"title": "Bandana",
+			"artist": "Freddie Gibbs & Madlib",
+			"genre": "Hip Hop",
+			"date": "June 28, 2019",
+			"yearlist1": "Complex #2",
+			 "yearlist2": ""
+		 },
+	  {
+			"number": "2.",
+			"title": "So Much Fun",
+			"artist": "Young Thug",
+			"genre": "Trap Rap",
+			"date": "August 16, 2019",
+			"yearlist1": "Uproxx #3",
+			"yearlist2": "Rolling Stone #18"
+		 },
+	  {
+			"number": "3.",
+			"title": "Revenge of the Dreamers III",
+			"artist": "Dreamville",
+			"genre": "Hip Hop",
+			"date": "July 5, 2019",
+			"yearlist1": "Complex #21",
+			"yearlist2": ""
+		 },
+	  {
+			"number": "4.",
+			"title": "Diaspora",
+			"artist": "GoldLink",
+			"genre": "Hip House",
+			"date": "June 12, 2019",
+			"yearlist1": "Complex #42",
+			"yearlist2": "Uproxx #33"
+		 },
+	  {
+			"number": "5.",
+			"title": "Die for Mine",
+			"artist": "Baby Keem",
+			"genre": "Trap Rap",
+			"date": "July 19, 2019",
+			"yearlist1": "New YorK Times #8",
+			"yearlist2": "Complex #14"
+		 },
+	  {
+			"number": "6.",
+			"title": "Igor",
+			"artist": "Tyler the Creator",
+			"genre": "Experimental Hip Hop",
+			"date": "May 17, 2019 ",
+			"yearlist1": "Complex #21" ,
+			"yearlist2": "Consequnce of Sound #6"
+		 },
+	  {
+			"number": "7.",
+			"title": "Sli'merre",
+			"artist": "Young Nudy and Pi'erre Bourne",
+			"genre": "- Trap Rap",
+			"date": "May 10, 2019",
+			"yearlist1": "Complex #7" ,
+			"yearlist2": "Gorrila & Bear"
+		 },
+	  {
+			"number": "8.",
+			"title": "Shea Butter Baby",
+			"artist": "Ari Lennox",
+			"genre": "Neo Soul",
+			"date": "May 7, 2019",
+			"yearlist1": "Complex #26" ,
+			"yearlist2": ""
+		 },
+	  {
+			"number": "9.",
+			"title": "Soul Trash",
+			"artist": "Toro Y Moi",
+			"genre": "Alternative R&B",
+			"date": "October 29, 2019",
+			"yearlist1": "Complex #17" ,
+			"yearlist2": "Double J #35"
+		 },
+	  {
+			"number": "10.",
+			"title": "Black Moses",
+			"artist": "Channel Tres",
+			"genre": "Dance/Electronic",
+			"date": "August 16, 2019",
+			"yearlist1": "" ,
+			"yearlist2": ""
+		 }
+	]
+}
