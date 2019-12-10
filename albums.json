@@ -1,5 +1,104 @@
 {
 	"albums": [
+		{
+			"number": "10.",
+			"title": "Black Moses",
+			"artist": "Channel Tres",
+			"genre": "Dance/Electronic",
+			"date": "August 16, 2019",
+			"coverimg": "cover-black-moses",
+			"desc": "Pairing Midwestern hip-house with Los Angeles G-funk, the South Central native emphasizes subtly bumping grooves and gruff, hypnotic rhymes. Channel Tres’ slick production and impossibly cool grooves make Black Moses the perfect soundtrack for late-night drives on humid nights. Wake up and lean in with Channel Tres.",
+			"yearlist1": "" ,
+			"yearlist2": ""
+		},
+		{
+			"number": "9.",
+			"title": "Soul Trash",
+			"artist": "Toro Y Moi",
+			"genre": "Alternative R&B",
+			"date": "October 29, 2019",
+			"coverimg": "cover-soul-trash",
+			"desc": "Toro y Moi takes us on a 24-minute millennial chillwave vacation on his newest project, Soul Trash. Chaz Bear said it best himself: “reality’s tight if the music is right.” Soul Trash is a more experimental, transcendental rebuttal to his previous masterpiece, Outer Peace.",
+			"yearlist1": "Complex #17" ,
+			"yearlist2": "Double J #35"
+		 },
+		{
+			"number": "8.",
+			"title": "Shea Butter Baby",
+			"artist": "Ari Lennox",
+			"genre": "Neo Soul",
+			"date": "May 7, 2019",
+			"coverimg": "cover-shea-butter-baby",
+			"desc": "The debut album from the neo-soul singer-songwriter is driven by warm funk and soul and has the healing familiarity of hanging out on the couch commiserating with a best friend. From slinky tracks about endless longing to hip-popping bops about unabashed desire, the album is a balm, elevating Lennox to the upper echelon of today’s neo-R&B and soul wave.",
+			"yearlist1": "Complex #26" ,
+			"yearlist2": ""
+		 },
+		{
+			"number": "7.",
+			"title": "Sli'merre",
+			"artist": "Young Nudy and Pi'erre Bourne",
+			"genre": "Trap Rap",
+			"date": "May 10, 2019",
+			"coverimg": "cover-slimerre",
+		  "desc": "If the features and beats dont get you pumped for this album then i've got no words for you. On one of the best rapper/producer collaborations of the year, the Atlanta MC remains a perfect fit for Pi’erre Bourne’s weird and heavy beats.",
+			"yearlist1": "Complex #7" ,
+			"yearlist2": "Gorrila & Bear #45"
+		 },
+		{
+			"number": "6.",
+			"title": "Igor",
+			"artist": "Tyler the Creator",
+			"genre": "Experimental Hip Hop",
+			"date": "May 17, 2019 ",
+			"coverimg": "cover-igor",
+			"desc": "Tyler has never been one for traditional song structure, but on IGOR he’s like the Minotaur luring you through a maze that twists and turns around seemingly impossible corners, drawing you into the thrilling unknown.",
+			"yearlist1": "Complex #21" ,
+			"yearlist2": "Consequnce of Sound #6"
+		 },
+		{
+			"number": "5.",
+			"title": "Die for Mine",
+			"artist": "Baby Keem",
+			"genre": "Trap Rap",
+			"date": "July 19, 2019",
+			"coverimg": "cover-die-for-mine",
+			"desc": "So as far as stats go, Keem isn’t anything to bet big on but in today’s game “if you know, you know” and people seem to “know” all about Keem’s potential. What got fans most hyped for the album’s release though was “FRANCE FREESTYLE” that highlights Keem’s nasally hopped-up and hyped-out flow.",
+			"yearlist1": "New YorK Times #8",
+			"yearlist2": "Complex #14"
+		 },
+		{
+			"number": "4.",
+			"title": "Diaspora",
+			"artist": "GoldLink",
+			"genre": "Hip House",
+			"date": "June 12, 2019",
+			"coverimg": "cover-diaspora",
+			"desc": "Aside from the recent antics of my guy, this is a must listen artist and album. Diaspora doesn’t reach the highs of those records [To Pimp a Butterfly, Flower Boy] because its concern is more sound than story, but it further cements that GoldLink can conceive of and execute his ideas better than most anyone in hip-hop today.",
+			"yearlist1": "Complex #42",
+			"yearlist2": "Uproxx #33"
+		 },
+		{
+			"number": "3.",
+			"title": "Revenge of the Dreamers III",
+			"artist": "Dreamville",
+			"genre": "Hip Hop",
+			"date": "July 5, 2019",
+			"coverimg": "cover-revenge3",
+			"desc": "A clinic for hardbody Hip Hop. Instead of being a fan of artists whose talent reaches in different directions than his and subsequently exploiting their sound for his own benefit, Cole has provided the ultimate platform for underground artists to succeed.",
+			"yearlist1": "Complex #21",
+			"yearlist2": ""
+		 },
+		{
+			"number": "2.",
+			"title": "So Much Fun",
+			"artist": "Young Thug",
+			"genre": "Trap Rap",
+			"date": "August 16, 2019",
+			"coverimg": "cover-so-much-fun",
+			"desc": "The title pretty much sums this album up, you will definitely have a blast listening to these tunes. So Much Fun’ is a free-spirited record that comes with heavy doses of ridiculousness, but it’s lovably silly, and is a welcome dose of light relief.",
+			"yearlist1": "Uproxx #3",
+			"yearlist2": "Rolling Stone #18"
+		 },
 	  {
 			"number": "1.",
 			"title": "Bandana",
@@ -7,98 +106,9 @@
 			"genre": "Hip Hop",
 			"date": "June 28, 2019",
 			"coverimg": "cover-bandana",
+			"desc": "The follow up to Pinata very well meets and exceeds expectations. The chemistry between Madlib and Gibbs is perfect and there’s a timelessness to these songs that will make you think of raw black cinematic worlds such as Super Fly or Truck Turner.",
 			"yearlist1": "Complex #2",
 			 "yearlist2": ""
-		 },
-	  {
-			"number": "2.",
-			"title": "So Much Fun",
-			"artist": "Young Thug",
-			"genre": "Trap Rap",
-			"date": "August 16, 2019",
-			"coverimg": "cover-so-much-fun",
-			"yearlist1": "Uproxx #3",
-			"yearlist2": "Rolling Stone #18"
-		 },
-	  {
-			"number": "3.",
-			"title": "Revenge of the Dreamers III",
-			"artist": "Dreamville",
-			"genre": "Hip Hop",
-			"date": "July 5, 2019",
-			"coverimg": "cover-revenge3",
-			"yearlist1": "Complex #21",
-			"yearlist2": ""
-		 },
-	  {
-			"number": "4.",
-			"title": "Diaspora",
-			"artist": "GoldLink",
-			"genre": "Hip House",
-			"date": "June 12, 2019",
-			"coverimg": "cover-diaspora",
-			"yearlist1": "Complex #42",
-			"yearlist2": "Uproxx #33"
-		 },
-	  {
-			"number": "5.",
-			"title": "Die for Mine",
-			"artist": "Baby Keem",
-			"genre": "Trap Rap",
-			"date": "July 19, 2019",
-			"coverimg": "cover-die-for-mine",
-			"yearlist1": "New YorK Times #8",
-			"yearlist2": "Complex #14"
-		 },
-	  {
-			"number": "6.",
-			"title": "Igor",
-			"artist": "Tyler the Creator",
-			"genre": "Experimental Hip Hop",
-			"date": "May 17, 2019 ",
-			"coverimg": "cover-igor",
-			"yearlist1": "Complex #21" ,
-			"yearlist2": "Consequnce of Sound #6"
-		 },
-	  {
-			"number": "7.",
-			"title": "Sli'merre",
-			"artist": "Young Nudy and Pi'erre Bourne",
-			"genre": "- Trap Rap",
-			"date": "May 10, 2019",
-			"coverimg": "cover-slimerre",
-			"yearlist1": "Complex #7" ,
-			"yearlist2": "Gorrila & Bear"
-		 },
-	  {
-			"number": "8.",
-			"title": "Shea Butter Baby",
-			"artist": "Ari Lennox",
-			"genre": "Neo Soul",
-			"date": "May 7, 2019",
-			"coverimg": "cover-shea-butter-baby",
-			"yearlist1": "Complex #26" ,
-			"yearlist2": ""
-		 },
-	  {
-			"number": "9.",
-			"title": "Soul Trash",
-			"artist": "Toro Y Moi",
-			"genre": "Alternative R&B",
-			"date": "October 29, 2019",
-			"coverimg": "cover-soul-trash",
-			"yearlist1": "Complex #17" ,
-			"yearlist2": "Double J #35"
-		 },
-	  {
-			"number": "10.",
-			"title": "Black Moses",
-			"artist": "Channel Tres",
-			"genre": "Dance/Electronic",
-			"date": "August 16, 2019",
-			"coverimg": "cover-black-moses",
-			"yearlist1": "" ,
-			"yearlist2": ""
 		 }
 	]
 }
