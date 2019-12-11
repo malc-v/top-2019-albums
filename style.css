@@ -210,22 +210,22 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 
 
 .section {
-			background: #000 url(images/svg/wu_illustration_42.svg) no-repeat center;
+			background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center;
 	    background-position: center;
 	    background-repeat: no-repeat;
 			background-size: cover;
 }
-.section:nth-child(1) {background: #000 url(images/svg/wu_illustration_84.svg) no-repeat center; background-size: cover;}
-.section:nth-child(2) {background: #000 url(images/svg/wu_illustration_42.svg) no-repeat center; background-size: cover;}
+.section:nth-child(1) {background: #000 url(images/SVG/wu_illustration_84.svg) no-repeat center; background-size: cover;}
+.section:nth-child(2) {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
 .section:nth-child(3) {background: #000 url(images/svg/wu_illustration_55.svg) no-repeat center; background-size: cover;}
-.section:nth-child(4) {background: #000 url(images/svg/wu_illustration_24.svg) no-repeat center; background-size: cover;}
-.section:nth-child(5) {background: #000 url(images/svg/wu_illustration_50.svg) no-repeat center; background-size: cover;}
-.section:nth-child(6) {background: #000 url(images/svg/wu_illustration_39.svg) no-repeat center; background-size: cover;}
-.section:nth-child(7) {background: #000 url(images/svg/wu_illustration_30.svg) no-repeat center; background-size: cover;}
-.section:nth-child(8) {background: #000 url(images/svg/wu_illustration_46.svg) no-repeat center; background-size: cover;}
-.section:nth-child(9) {background: #000 url(images/svg/wu_illustration_42.svg) no-repeat center; background-size: cover;}
-.section:nth-child(10) {background: #000 url(images/svg/wu_illustration_41.svg) no-repeat center; background-size: cover;}
-.section:nth-child(11) {background: #000 url(images/svg/wu_illustration_85.svg) no-repeat center; background-size: cover;}
+.section:nth-child(4) {background: #000 url(images/SVG/wu_illustration_24.svg) no-repeat center; background-size: cover;}
+.section:nth-child(5) {background: #000 url(images/SVG/wu_illustration_50.svg) no-repeat center; background-size: cover;}
+.section:nth-child(6) {background: #000 url(images/SVG/wu_illustration_39.svg) no-repeat center; background-size: cover;}
+.section:nth-child(7) {background: #000 url(images/SVG/wu_illustration_30.svg) no-repeat center; background-size: cover;}
+.section:nth-child(8) {background: #000 url(images/SVG/wu_illustration_46.svg) no-repeat center; background-size: cover;}
+.section:nth-child(9) {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
+.section:nth-child(10) {background: #000 url(images/SVG/wu_illustration_41.svg) no-repeat center; background-size: cover;}
+.section:nth-child(11) {background: #000 url(images/SVG/wu_illustration_85.svg) no-repeat center; background-size: cover;}
 
 
 .wrapper {
