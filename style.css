@@ -217,7 +217,7 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 }
 .section:nth-child(1) {background: #000 url(images/SVG/wu_illustration_84.svg) no-repeat center; background-size: cover;}
 .section:nth-child(2) {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
-.section:nth-child(3) {background: #000 url(images/svg/wu_illustration_55.svg) no-repeat center; background-size: cover;}
+.section:nth-child(3) {background: #000 url(images/SVG/wu_illustration_55.svg) no-repeat center; background-size: cover;}
 .section:nth-child(4) {background: #000 url(images/SVG/wu_illustration_24.svg) no-repeat center; background-size: cover;}
 .section:nth-child(5) {background: #000 url(images/SVG/wu_illustration_50.svg) no-repeat center; background-size: cover;}
 .section:nth-child(6) {background: #000 url(images/SVG/wu_illustration_39.svg) no-repeat center; background-size: cover;}
