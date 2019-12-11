@@ -1,7 +1,7 @@
 {
 	"albums": [
 		{
-			"number": "10.",
+			"number": "10",
 			"title": "Black Moses",
 			"artist": "Channel Tres",
 			"genre": "Dance/Electronic",
@@ -12,7 +12,7 @@
 			"yearlist2": ""
 		},
 		{
-			"number": "9.",
+			"number": "9",
 			"title": "Soul Trash",
 			"artist": "Toro Y Moi",
 			"genre": "Alternative R&B",
@@ -23,7 +23,7 @@
 			"yearlist2": "Double J #35"
 		 },
 		{
-			"number": "8.",
+			"number": "8",
 			"title": "Shea Butter Baby",
 			"artist": "Ari Lennox",
 			"genre": "Neo Soul",
@@ -34,7 +34,7 @@
 			"yearlist2": ""
 		 },
 		{
-			"number": "7.",
+			"number": "7",
 			"title": "Sli'merre",
 			"artist": "Young Nudy and Pi'erre Bourne",
 			"genre": "Trap Rap",
@@ -45,7 +45,7 @@
 			"yearlist2": "Gorrila & Bear #45"
 		 },
 		{
-			"number": "6.",
+			"number": "6",
 			"title": "Igor",
 			"artist": "Tyler the Creator",
 			"genre": "Experimental Hip Hop",
@@ -56,7 +56,7 @@
 			"yearlist2": "Consequnce of Sound #6"
 		 },
 		{
-			"number": "5.",
+			"number": "5",
 			"title": "Die for Mine",
 			"artist": "Baby Keem",
 			"genre": "Trap Rap",
@@ -67,7 +67,7 @@
 			"yearlist2": "Complex #14"
 		 },
 		{
-			"number": "4.",
+			"number": "4",
 			"title": "Diaspora",
 			"artist": "GoldLink",
 			"genre": "Hip House",
@@ -78,7 +78,7 @@
 			"yearlist2": "Uproxx #33"
 		 },
 		{
-			"number": "3.",
+			"number": "3",
 			"title": "Revenge of the Dreamers III",
 			"artist": "Dreamville",
 			"genre": "Hip Hop",
@@ -89,7 +89,7 @@
 			"yearlist2": ""
 		 },
 		{
-			"number": "2.",
+			"number": "2",
 			"title": "So Much Fun",
 			"artist": "Young Thug",
 			"genre": "Trap Rap",
@@ -100,7 +100,7 @@
 			"yearlist2": "Rolling Stone #18"
 		 },
 	  {
-			"number": "1.",
+			"number": "1",
 			"title": "Bandana",
 			"artist": "Freddie Gibbs & Madlib",
 			"genre": "Hip Hop",
