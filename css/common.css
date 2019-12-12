@@ -1,0 +1,22 @@
+/*body {
+  margin: 0;
+  min-height: 100vh;
+  min-width: 100vw;
+}*/
+
+canvas {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.link {
+  cursor: url('https://malc-v.github.io/top-2019-albums/images/SVG/noun_Headphones.png') 4 4, pointer;
+}
+
+.link img {
+  display: none;
+}
