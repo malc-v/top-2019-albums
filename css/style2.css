@@ -62,7 +62,8 @@ background-size: cover;}
   font-size: 1.75rem;
   font-family: 'EVO Medium', Arial, sans-serif;
   margin: .5rem 0;
-  color: rgb(255, 255, 255, .8);
+  color: rgb(255, 255, 255, .65);
+  font-weight:bold;
 }
 .h3 {
   font-family: 'Evolve Thin', Arial, sans-serif;

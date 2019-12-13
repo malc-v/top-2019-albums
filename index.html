@@ -1,153 +1,173 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-  <title>630 Project</title>
-	<link rel="stylesheet" href="style.css">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <meta charset="utf-8" />
+  <title>Top Albums of 2019</title>
+  <meta content="" name="description" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+
+	<link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="css/style2.css" />
+  <link rel="stylesheet" type="text/css" href="css/reset.css" />
+  <link rel="stylesheet" type="text/css" href="css/common.css" />
+  <link rel="stylesheet" type="text/css" href="css/scroll-arrow.css" />
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.min.css" />
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.extensions.min.js"></script>
 
-<style>
-* {
-  box-sizing: border-box;
-}
-.embed-container {
-  position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;
-}
-.embed-container iframe, .embed-container object, .embed-container embed {
-  position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-}
-
-.wrapper {
-  display: grid;
-  grid-template-columns: auto;
-  grid-template-rows: auto;
-  height: 100%;
-}
-.box1 {grid-row: 1 / 2; grid-column: 1 / 5;}
-.box2 {grid-row: 2 / 3; grid-column: 1 / 5;}
-.box3 {grid-row: 3 / 4; grid-column: 1 / 5;}
-.box5 {grid-row: 4 / 5; grid-column: 1 / 5;}
-.box6 {grid-row: 5 / 6; grid-column: 1 / 5;}
-
-@media (min-width: 700px) {
-  .wrapper {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: auto;
-    /*height: 100%*/
-  }
-
-  .box1 { grid-column: 1 / 5; grid-row: 1 / 2; }
-  .box2 { grid-column: 1 / 3; grid-row: 2 / 3; }
-  .box3 {grid-column: 1 / 3; grid-row: 3 / 4;}
-  .box4 { grid-column: 3 / 5; grid-row: 2 / 4; margin: auto;}
-  .box5 { grid-column: 1 / 5; grid-row: 4 / 5;}
-}
-
-.nested {
-  background: url(images/151581-shea-butter-baby.jpg);
-  padding: 2em;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-width: 450px;
-  height: auto;
-  margin: auto;
-}
-.nested-vid {padding: 2em;}
-
-.cover {max-width: 100%;}
-</style>
 </head>
 	<body>
-
 
     <div id="fullpage">
 
       <div class="section">
 
-        <div style="height:100%;">
-
-          <h1 style="font-size: 5rem; font-family: 'EVO Thin', Arial, sans-serif; padding: 20px 0;"> Top albums of 2019 </h1>
-
-          <button id="btn">Load top albums</button>
-
-            <!-- partial:index.partial.html -->
-            <div class="collection">
-               <div class="card" style="background: url(images/cover-art/cover-black-moses.jpg)"></div>
-               <div class="card" style="background: url(images/cover-art/cover-soul-trash.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-shea-butter-baby.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-slimerre.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-igor.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-die-for-mine.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-diaspora.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-revenge3.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-so-much-fun.jpg);"></div>
-               <div class="card" style="background: url(images/cover-art/cover-bandana.jpg);"></div>
+        <main class="app">
+            <div class=" grid grid-container-home">
+              <div class="alb-item1">
+                <h1> Top albums of 2019 </h1>
+                <a href="#page2">
+                <button id="btn" class="btn-5">Load top albums</button>
+                <div id="scroll">
+                    <div class="arrow arrow-first"></div>
+                    <div class="arrow arrow-second"></div>
+                </div>
+                </a>
+              </div>
+              <div class="alb-item2">
+                <a aria-label="link-1" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Bandana</h1>
+                  <h3 class="h3">Freddie Gibbs & Madlib</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-bandana.jpg" alt="img1"/>
+                </a>
+              </div>
+              <div class="alb-item3">
+                <a aria-label="link-2" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">So Much Fun</h1>
+                  <h3 class="h3">Young Thug</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-so-much-fun.jpg" alt="img2"/>
+                </a>
+              </div>
+              <div class="alb-item4">
+                <a aria-label="link-1" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Diaspora</h1>
+                  <h3 class="h3">GoldLink</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-diaspora.jpg" alt="img1"/>
+                </a>
+              </div>
+              <div class="alb-item5">
+                <a aria-label="link-3" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Revenge of the Dreamers 3</h1>
+                  <h3 class="h3">Dreamville</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-revenge3.jpg" alt="img3"/>
+                </a>
+              </div>
+              <div class="alb-item6">
+                <a aria-label="link-2" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Die for Mine</h1>
+                  <h3 class="h3">Baby Keem</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-die-for-mine.jpg" alt="img2"/>
+                </a>
+              </div>
+              <div class="alb-item7">
+                <a aria-label="link-3" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Igor</h1>
+                  <h3 class="h3">Tyler the Creator</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-igor.jpg" alt="img3"/>
+                </a>
+              </div>
+              <div class="alb-item8">
+                <a aria-label="link-3" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Sli'merre</h1>
+                  <h3 class="h3">Young Nudy and Pi'erre Bourne</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-slimerre.jpg" alt="img3"/>
+                </a>
+              </div>
+              <div class="alb-item9">
+                <a aria-label="link-1" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Shea Butter Baby</h1>
+                  <h3 class="h3">Ari Lennox</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-shea-butter-baby.jpg" alt="img1"/>
+                </a>
+              </div>
+              <div class="alb-item10">
+                <a aria-label="link-2" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Soul Trash</h1>
+                  <h3 class="h3">Toro Y Moi</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-soul-trash.jpg" alt="img2"/>
+                </a>
+              </div>
+              <div class="alb-item11">
+                <a aria-label="link-3" target="_blank" rel="noopener" draggable="false" class="link l-d2 w-inline-block">
+                  <h1 class="h1">Black Moses</h1>
+                  <h3 class="h3">Chanel Tres</h3>
+                  <img class="content__img" src="https://malc-v.github.io/top-2019-albums/images/cover-art/cover-black-moses.jpg" alt="img3"/>
+                </a>
+              </div>
             </div>
-            <!-- partial -->
-          </div>
+        </main>
 
-        </div>
+      </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
 
       <div class="section">
-        <div class="wrapper" id="album-info">
+        <div class="wrapper">
 
         </div>
       </div>
@@ -161,9 +181,35 @@
         anchors: ['page1', 'page2', 'page3', 'page4', 'page5', 'page6', 'page7', 'page8', 'page9', 'page10', 'page11'],
         navigationTooltips: ['Home', '10th', '9th', '8th', '7th', '6th', '5th', '4th', '3rd', '2nd', '1st'],
         navigation: true,
+        scrollingSpeed: 1000,
+        autoScrolling: true,
         slidesNavigation: true
       });
     </script>
     <script src="js/myscript.js"></script>
-  </body>
-  </html>
+    <script src="js/three.min.js"></script>
+    <script src="js/TweenLite.min.js"></script>
+    <script src="js/Math.js"></script>
+    <script src="js/EffectShell.js"></script>
+    <script src="js/TrailsEffect.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script>
+    const container = document.body
+    const itemsWrapper = document.querySelector('.grid')
+
+    // Preload images
+    const preloadImages = () => {
+        return new Promise((resolve, reject) => {
+            imagesLoaded(document.querySelectorAll('img'), resolve);
+        });
+    };
+    // And then..
+    preloadImages().then(() => {
+        // Remove the loader
+        document.body.classList.remove('loading');
+        const effect = new TrailsEffect(container, itemsWrapper)
+    });
+    </script>
+    </body>
+
+    </html>
