@@ -11,11 +11,14 @@
   <link rel="stylesheet" type="text/css" href="css/style2.css" />
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/common.css" />
+  <link rel="stylesheet" type="text/css" href="css/scroll-arrow.css" />
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.min.css" />
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.extensions.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/vendors/jquery.easings.min.js"></script>
 
 </head>
 	<body>
@@ -29,7 +32,7 @@
               <div class="alb-item1">
                 <h1> Top albums of 2019 </h1>
                 <a href="#page2">
-                <button id="btn" class="btn-5">Load top albums</button>
+                <!--<button id="btn" class="btn-5">Load top albums</button>-->
                 <div id="scroll">
                     <div class="arrow arrow-first"></div>
                     <div class="arrow arrow-second"></div>
@@ -382,6 +385,9 @@
       anchors: ['page1', 'page2', 'page3', 'page4', 'page5', 'page6', 'page7', 'page8', 'page9', 'page10', 'page11'],
       navigationTooltips: ['Home', '10th', '9th', '8th', '7th', '6th', '5th', '4th', '3rd', '2nd', '1st'],
       navigation: true,
+      easing: 'easeInOutSine',
+      easingcss3: 'ease',
+      scrollingSpeed: 1000,
       slidesNavigation: true
     });
   </script>

@@ -1,4 +1,3 @@
-//var albumContainer = document.getElementById("album-info");
 var pageCounter = 1;
 var btn = document.getElementById("btn");
 var scroll = document.getElementById("scroll");
@@ -14,6 +13,7 @@ btn.addEventListener("click", function() {
   pageCounter++;
   if (pageCounter > 1) {
     btn.classList.add("hide-me");
+    scroll.classList.add("show-me");
     scroll.classList.add("show-me");
   }
 });
