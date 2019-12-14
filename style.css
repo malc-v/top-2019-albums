@@ -303,15 +303,15 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 /* Mobile Sizes*/
 
 @media (max-width: 500px) {
-	.alb-num {float: none; top: -25px; left: 85px;}
-	.alb-title {font-size: 2.2rem; display: block;}
-	.alb-artist {font-size: 2.2rem; }
-	.alb-genre {font-size: 2.2rem; font-family: 'EVO Regular', Arial, sans-serif;}
+	.alb-num {float: none; top: -25px; left: 40px;}
+	.alb-title {font-size: 2.0rem; display: block;}
+	.alb-artist {font-size: 1.75rem; display: block;}
+	.alb-genre {font-size: 1.75rem; display: block; font-family: 'EVO Regular', Arial, sans-serif;}
 	.alb-date {font-size: 1.5rem;}
 	.alb-desc {font-size: 1.2rem;}
 	.alb-desc p {margin-bottom: 0.5em;}
 	.alb-acc {font-size: 1.5rem;}
-	.box1 {padding-top: 1rem;}
+	.box1 {padding-top: .5rem;}
 	.box3 {padding-top: .5rem;}
 	.box2 {padding-top: 0em;}
 	.box5 {display: none;}
@@ -324,6 +324,10 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 	.section:nth-child(11) .alb-genre, .section:nth-child(11) .alb-artist {
 		 padding: 0 5px;
 		 font-size: 2.0rem;
+	}
+	.section:nth-child(5) .alb-genre, .section:nth-child(5) .alb-artist {
+		 padding: 0 5px;
+		 font-size: 1.75rem;
 	}
 }
 
@@ -360,7 +364,7 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 /* Homepage Trails CSS Mobile */
 
 @media (max-width: 500px) {
-.alb-item1 h1 {font-size: 2.3rem; margin: .50rem 0;}
+.alb-item1 h1 {font-size: 2rem; margin: .50rem 0;}
 .h1 {font-size: 1.25rem !important; line-height: 1.25rem !important; padding-top: 0; margin: .25rem 0;}
 .h3 {font-size: 1.0rem !important; line-height: 1.25rem !important; margin: 0 !important;}
 .link {margin: .5rem 0 !important;}
