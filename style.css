@@ -304,9 +304,9 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 
 @media (max-width: 500px) {
 	.alb-num {float: none; top: -25px; left: 40px;}
-	.alb-title {font-size: 2.0rem; display: block;}
-	.alb-artist {font-size: 1.75rem; display: block;}
-	.alb-genre {font-size: 1.75rem; display: block; font-family: 'EVO Regular', Arial, sans-serif;}
+	.alb-title {font-size: 1.8rem; display: block;}
+	.alb-artist {font-size: 1.5rem; display: inline-block; padding: 0 5px;}
+	.alb-genre {font-size: 1.5rem; display: inline-block; padding: 0 5px;}
 	.alb-date {font-size: 1.5rem;}
 	.alb-desc {font-size: 1.0rem; padding: 0 1rem;}
 	.alb-desc p {margin-bottom: 0.5em;}
@@ -314,7 +314,8 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 	.box1 {padding-top: .5rem;}
 	.box3 {padding-top: .5rem;}
 	.box2 {padding-top: 0em;}
-	.box5 {display: none;}
+	.box4 {grid-column: 1 / 5; grid-row: 4 / 5; }
+	.box5 {grid-row: 5 / 6; grid-column: 1 / 5;}
 	.nested {width: 350px;}
 	.nested1, .nested2, .nested3, .nested4, .nested5,
 	.nested6, .nested7, .nested8, .nested9, .nested10  {
@@ -364,11 +365,16 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 /* Homepage Trails CSS Mobile */
 
 @media (max-width: 500px) {
-.alb-item1 h1 {font-size: 2rem; margin: .50rem 0;}
+.alb-item1 h1 {font-size: 1.8rem; margin: .50rem 0;}
 .h1 {font-size: 1.25rem !important; line-height: 1.25rem !important; padding-top: 0; margin: .25rem 0;}
 .h3 {font-size: 1.0rem !important; line-height: 1.25rem !important; margin: 0 !important;}
-.link {margin: .5rem 0 !important;}
-button {margin: 10px !important;}
+.link {margin: .25rem 0 !important;}
+button {margin: 7px !important;
+    font-size: .85rem !important;
+    padding: 10px 20px;
+    height: auto !important;
+    width: auto !important;
+}
 
 .grid-container-home {
 	display: grid;
@@ -379,7 +385,7 @@ button {margin: 10px !important;}
 }
 .alb-item1, .alb-item2, .alb-item3, .alb-item4, .alb-item5, .alb-item6,
 .alb-item7, .alb-item8, .alb-item9, .alb-item10, .alb-item11 {
- padding: 5px;
+ padding: 0px;
  text-align: center;
 }
 
