@@ -4,7 +4,7 @@ var scroll = document.getElementById("scroll");
 
 btn.addEventListener("click", function() {
   var myRequest = new XMLHttpRequest();
-  myRequest.open('GET', 'https://malc-v.github.io/top-2019-albums/albums.json');
+  myRequest.open('GET', 'https://malcvmoore.github.io/top-2019-albums/albums.json');
   myRequest.onload = function() {
     var myData = JSON.parse(myRequest.responseText);
     renderHTML(myData);
