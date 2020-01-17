@@ -213,12 +213,8 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
 }
 
 
-.section {
-			background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center;
-	    background-position: center;
-	    background-repeat: no-repeat;
-			background-size: cover;
-}
+.section {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
+
 .section:nth-child(1) {background: none !important;}
 .section:nth-child(2) {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
 .section:nth-child(3) {background: #000 url(images/SVG/wu_illustration_55.svg) no-repeat center; background-size: cover;}
