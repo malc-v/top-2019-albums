@@ -201,21 +201,11 @@ p {	font-family: 'EVO Regular', Arial, sans-serif;}
   background-size: cover;
 }
 
-/* Position text in the middle of the page/image */
-.img-inner {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    padding: 20px;
-    text-align: center;
-}
+
 
 
 .section {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
 
-.section:nth-child(1) {background: none !important;}
 .section:nth-child(1) {background: #000 url(images/SVG/wu_illustration_84.svg) no-repeat center; background-size: cover;}
 .section:nth-child(2) {background: #000 url(images/SVG/wu_illustration_42.svg) no-repeat center; background-size: cover;}
 .section:nth-child(3) {background: #000 url(images/SVG/wu_illustration_55.svg) no-repeat center; background-size: cover;}
